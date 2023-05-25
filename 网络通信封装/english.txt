@@ -1,0 +1,3 @@
+hello world
+my name is pthread
+you can use the socket to communicate with me in linux
